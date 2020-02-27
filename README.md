@@ -1,4 +1,6 @@
-# LEARN HOW TO CREATE API USING SPRINGBOOT AND KOTLIN
+# Api Using Springboot Kotlin
+
+Learn how to create API using Springboot and Kotlin
 
 Stack
 * DB : MySQL 10.1.37
