@@ -12,7 +12,6 @@ class AcquirerController(val acquirerService: AcquirerService) {
 
     @PostMapping("")
     fun postAcquirer(@RequestBody acquirer: Acquirer): Acquirer {
-        println(acquirer)
         return acquirerService.insertAcquirer(acquirer)
     }
 }
